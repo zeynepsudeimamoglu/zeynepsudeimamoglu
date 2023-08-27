@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=ZS&label=Ziyaretçi%20Sayısı&color=37fa3f" alt="ZS" /> 
+<img src="https://komarev.com/ghpvc/?username=zeynepsudeimamoglu&label=Ziyaretçi%20Sayısı&color=37fa3f" alt="zeynepsudeimamoglu" /> 
 
 
 <h1 align="center">✨ Hi, I am Zeynep Sude</h1>
@@ -11,5 +11,5 @@ Hi, my name is Zeynep Sude and I'm 18. I started software development with devel
 
 ## 📈 Github Stats
 
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thearkxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=thearkxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zeynepsudeimamoglu&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=zeynepsudeimamoglu&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
