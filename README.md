@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=zeynepsudeimamoglu&label=Ziyaretçi%20Sayısı&color=37fa3f" alt="zeynepsudeimamoglu" /> 
+<img src="https://komarev.com/ghpvc/?username=zeynepsudeimamoglu&label=Visitor%20Count&color=37fa3f" alt="zeynepsudeimamoglu" /> 
 
 
 <h1 align="center">✨ Hi, I am Zeynep Sude</h1>
